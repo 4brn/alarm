@@ -1,0 +1,15 @@
+#######################################
+# 语法高亮定义
+#######################################
+BuzzerESP32 KEYWORD1
+playTone KEYWORD2
+stop KEYWORD2
+setTimbre KEYWORD2
+setFrequency KEYWORD2
+NOTE_C4 LITERAL1
+NOTE_D4 LITERAL1
+NOTE_E4 LITERAL1
+NOTE_F4 LITERAL1
+NOTE_G4 LITERAL1
+NOTE_A4 LITERAL1
+NOTE_B4 LITERAL1
